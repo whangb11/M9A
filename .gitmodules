@@ -3,5 +3,5 @@
 	url = https://github.com/MaaXYZ/MaaCommonAssets.git
 [submodule "Android/MaaFwApp"]
 	path = Android/MaaFwApp
-	url = https://github.com/Aliothmoon/MaaFwApp.git
+	url = https://github.com/whangb11/MaaFwApp.git
 	branch = main
